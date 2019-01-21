@@ -6,7 +6,13 @@ Changed directly in the master, checking
 changed again in master
 
 
+from local
+again hello updated in master, this master
+
+
 again updated in master, this master
 
 
-checking rebase 
+update hello
+rust is super
+
